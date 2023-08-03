@@ -100,8 +100,17 @@
         background-color: #fff;
         box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
       }
-    </style>
 
+      @media (min-width: 768px) {
+        .logo {
+          max-width: 600px;
+        }
+
+        .sidebar, .content {
+          padding: 40px;
+        }
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -119,26 +128,14 @@
           </div>
         </header>
       </div>
-
       <section class="content">
-        <p>I am xxxx with <a href="xxx" target="_blank">xx</a> xxx</p>
-        <p>See <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank">Google Scholar</a> for an up-to-date publications list.</p>
-        <p><strong>Contact</strong>: mplomecka [at] google.com</p>
-        <h2 id="recent-news">Recent news</h2>
-        <ul>
-          <li><strong>July 2022</strong>: Started at xxx</li>
-          <li><strong>July 2022</strong>: Got an <a href="https://icml.cc/Conferences/2022/Reviewers" target="_blank">ICML Outstanding Reviewer Award</a>!</li>
-        </ul>
-        <h2 id="misc-updated-periodically">Misc (updated not so periodically)</h2>
+        <!-- Your existing body content -->
       </section>
-
       <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-
     <script src="/assets/scale.fix.js"></script>
-    
   </body>
 </html>
 
