@@ -24,31 +24,38 @@
     <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <style>
       /* Styles */
       body, html {
         margin: 0;
         padding: 0;
-        font-family: 'Roboto', sans-serif;
-        background-color: #ffffff;
+        font-family: 'Montserrat', sans-serif;
+        background-color: #fafafa;
+        color: #333;
       }
       .wrapper {
         display: flex;
         flex-direction: column;
         min-height: 100vh;
+        max-width: 800px;
+        margin: 0 auto;
       }
       .sidebar {
         padding: 20px;
+        background-color: #fff;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
       }
       .title a {
         text-decoration: none;
         color: inherit;
+        font-weight: 700;
       }
       .logo {
         width: 100%; /* Make the image responsive */
-        max-width: 400px; /* Increase maximum width */
+        max-width: 200px; /* Increase maximum width */
         height: auto;
+        border-radius: 50%;
       }
       .content {
         flex: 1;
@@ -56,27 +63,34 @@
       }
       .icons a {
         margin-right: 10px;
+        color: #666;
+      }
+      .icons a:hover {
+        color: #333;
       }
       footer {
         padding: 20px;
         text-align: center;
+        background-color: #fff;
+        box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
       }
     </style>
   </head>
   <body>
     <div class="wrapper">
       <div class="sidebar">
-      <header>
-        <h1 class="title"><a href="https://martynaplomecka.github.io/">Martyna Plomecka</a></h1>
-        <img src="/assets/me.jpg" class="logo" alt="Logo" />
-        <div class="icons">
+        <header>
+          <h1 class="title"><a href="https://martynaplomecka.github.io/">Martyna Plomecka</a></h1>
+          <img src="/assets/me.jpg" class="logo" alt="Logo" />
+          <div class="icons">
             <a href="mailto:mbplomecka@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
             <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
             <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
             <a href="https://www.github.com/martynaplomecka" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
             <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-        </div>
-      </header>
+          </div>
+        </header>
+      </div>
       <section class="content">
         <p>I am xxxx with <a href="xxx" target="_blank">xx</a> xxx</p>
         <p>See <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank">Google Scholar</a> for an up-to-date publications list.</p>
