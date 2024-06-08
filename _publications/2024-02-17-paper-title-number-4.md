@@ -1,8 +1,7 @@
 ---
 title: "Understanding factors influencing the adoption of open science practices among Malaysia's NIH researchers"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Open science practices, including research data sharing and reuse, are crucial for advancing scientific knowledge. However, the extent to which Malaysia's National Institutes of Health (NIH) researchers participate in open science remains a subject of inquiry.'
 date: 2024-26-04
 venue: 'Information Development'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/02666669241248145'
