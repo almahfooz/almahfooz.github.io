@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Library and Information Science, International Islamic University, Malaysia 2024
+* M.S. in Library and Information Science, International Islamic University, Malaysia 2011
+* B.S. in Library and Information Science, Ahmadu Bello University, Zaria, Nigeria 2012
 
 Work experience
 ======
