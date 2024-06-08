@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: almahfooz/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: almahfooz/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: almahfooz/teaching/    
+    url: /teaching/    
     
   - title: "Portfolio"
-    url: almahfooz/portfolio/
+    url: /portfolio/
         
   - title: "Blog Posts"
-    url: almahfooz/year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: almahfooz/cv/
+    url: /cv/
     
   - title: "Guide"
-    url: almahfooz/markdown/
+    url: /markdown/
