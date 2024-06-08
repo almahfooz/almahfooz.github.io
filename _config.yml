@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile1"
   name             : "Mahfooz Ahmed"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant"
@@ -127,7 +127,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
+# For specifying social s
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
