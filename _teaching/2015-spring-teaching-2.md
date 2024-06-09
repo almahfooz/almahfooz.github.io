@@ -9,12 +9,3 @@ location: "Gombak, Malaysia"
 ---
 
 In the Indexing and Abstracting practical session, students put theory into action by learning to create comprehensive indexes and informative abstracts for different information sources, using software like indri or Web of Science.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
