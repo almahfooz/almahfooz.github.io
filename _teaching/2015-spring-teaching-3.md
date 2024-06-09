@@ -1,5 +1,5 @@
 ---
-title: "Information Storage and Retrieval"
+title: "Information Storage and Retrieval (practical session)"
 collection: teaching
 type: "Practical Session"
 permalink: /teaching/2015-spring-teaching-1
