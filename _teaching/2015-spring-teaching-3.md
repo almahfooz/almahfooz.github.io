@@ -9,12 +9,3 @@ location: "Gombak, Malaysia"
 ---
 
 In the Information Storage and Retrieval (practical session), students will gain hands-on experience building and searching information systems, exploring data organization techniques, indexing, and applying search strategies. This includes exploring the functionalities of leading academic databases like Scopus and Google Scholar.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
