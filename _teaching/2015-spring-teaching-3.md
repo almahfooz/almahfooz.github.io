@@ -1,5 +1,5 @@
 ---
-title: "Indexing and Abstracting"
+title: "Information Storage and Retrieval"
 collection: teaching
 type: "Practical Session"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Gombak, Malaysia"
 ---
 
-In the Indexing and Abstracting practical session, students put theory into action by learning to create comprehensive indexes and informative abstracts for different information sources, using software like indri or Web of Science.
+In the Information Storage and Retrieval (practical session), students will gain hands-on experience building and searching information systems, exploring data organization techniques, indexing, and applying search strategies. This includes exploring the functionalities of leading academic databases like Scopus and Google Scholar.
 
 Heading 1
 ======
