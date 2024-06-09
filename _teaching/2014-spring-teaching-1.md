@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Gombak, Malaysia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During the practical session of the bibliometrics class, students gained hands-on experience analyzing and measuring the impact of scholarly publications using software like VOSviewer or RStudio biblioshiny. These tools allowed them to delve into citation data and visualize publication networks.
 
 Heading 1
 ======
