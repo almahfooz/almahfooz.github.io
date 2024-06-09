@@ -1,5 +1,5 @@
 ---
-title: "Indexing and Abstracting"
+title: "Indexing and Abstracting (practical session)"
 collection: teaching
 type: "Practical Session"
 permalink: /teaching/2015-spring-teaching-1
