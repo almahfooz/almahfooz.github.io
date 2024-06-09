@@ -10,9 +10,6 @@ author_profile: true
       
 {% endif %}
 
-    <a href="https://www.webofscience.com/wos/author/record/HMO-8713-2023">Web of Science</a>.
-    <a href="https://www.scopus.com/authid/detail.uri?authorId=57193214675">Scopus</a>.
-    
 {% include base_path %}
 
 {% for post in site.publications reversed %}
