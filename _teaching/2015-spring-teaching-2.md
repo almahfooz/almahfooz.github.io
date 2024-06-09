@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Indexing and Abstracting"
 collection: teaching
-type: "Workshop"
+type: "Practical Session"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "IIUM, DLIS"
+date: 2023-01-01
+location: "Gombak, Malaysia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In the Indexing and Abstracting practical session, students put theory into action by learning to create comprehensive indexes and informative abstracts for different information sources, using software like indri or Web of Science.
 
 Heading 1
 ======
