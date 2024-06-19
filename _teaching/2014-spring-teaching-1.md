@@ -1,7 +1,7 @@
 ---
-title: "Bibliometrics (practical session)"
+title: "Bibliometrics"
 collection: teaching
-type: "Postgraduate course"
+type: "practical session"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IIUM, DLIS"
 date: 2023-01-01
