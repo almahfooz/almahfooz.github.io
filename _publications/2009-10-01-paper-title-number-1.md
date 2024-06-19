@@ -1,13 +1,6 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Muslim Scholars and Experts Views on Cryptocurrencies: A Systematic Literature Review"
+citation: 'Mahfooz Ahmed, Roslina Othman, Mohamad Fauzan Noordin, Muhd Zulfadli Hafiz bin Ismail, Zulkarnain bin Abd Karim, Sharifah Nazeera Binti Syed Anera. (2024). &quot; Muslim Scholars and Experts Views on Cryptocurrencies: A Systematic Literature Review .&quot; <i>Sains Insani</i>. 8 (1), 94-102. <a href="https://doi.org/10.33102/jsi" target="_blank"> DOI: 10.33102/jsi</a>'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Muslim scholars and experts have given their views on issues related to the permissive and prohibitive use of cryptocurrencies.  Scholars' and experts’ decisions were of three categories: permitted the use of cryptocurrency, prohibited its use based on Islamic principles, and tawaf, yet to make their final decision on the acceptance or otherwise.  The main objective of this study was to systematically examine and organize the various studies and research that explored known common ideas among Muslim scholars and experts on issues related to the use of cryptocurrency in Muslim communities. This study adopted the PRISMA guideline of reporting a systematic literature review, where it identified and explored available literature in Scopus, Emerald Insight, and Google Scholar related to Muslim scholars' and experts’ decisions on the use of cryptocurrency. With the increasing use of cryptocurrency globally, the topic has also rapidly grown among Muslim scholars and experts, which has created a need for a real conclusion and justification for the people to hold on to.  The systematic literature review revealed that the Muslim scholars and experts’ views on cryptocurrencies can be sub-categorized further: permitted its use (requirements compliant, regulations, justified reasons, wide acceptance, and gold-backed), prohibited its use (speculative nature, restrictions by authorities, fewer benefits, and religious beliefs), and tawaqquf (potentials for improvement, PMBC, Islamic cryptocurrencies, and backed Dinar and Dirham crypto). The conceptual contribution of this study was that views expressed by Muslim scholars and experts on cryptocurrencies could be categorized for public consumption and guided in understanding issues.
