@@ -1,13 +1,6 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "The relationship between e-marketing mix framework (4Ps) and customer satisfaction with electronic information services: An empirical analysis of Jordanian university libraries"
+citation: 'Maha Waleed Elfadel, Roslina Bt Othman, Nik Hziman B Nik Mat, Faten Fatehi Hamad, Hazwani Mohd Mohadis, Mahfooz Ahmed. (2024). &quot; The relationship between e-marketing mix framework (4Ps) and customer satisfaction with electronic information services: An empirical analysis of Jordanian university libraries .&quot; <i>Information Services & Use</i>. 0(0). https://doi.org/10.3233/ISU-240230'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study employs Structural Equation Modeling (SEM) using Smart PLS 3.2.9 to offer valuable insight into the relationship between e-marketing mix (4Ps) and customer satisfaction with electronic information services provided by public university libraries in Jordan. The identified primary aspects within the e-marketing mix encompass e-product, e-pricing, e-place, and e-promotion. An online survey (questionnaire) targeting postgraduate student respondents at Jordanian public universities (a total of 792 participants) was used to gather data using a quantitative technique. Participants were chosen using voluntary response sampling. The study’s findings revealed that all relevant elements of the e-marketing mix establish significant relationships with customer satisfaction among postgraduate student respondents utilizing e-information services in public university libraries in Jordan. Notably, e-products, e-pricing, and e-promotion demonstrated substantial positive relationships with customer satisfaction. Conversely, a negative relationship was observed with e-place. The novelty of this study lies in its exploration of the previously unexplored realm of the e-marketing mix framework (4Ps) in the context of customer satisfaction with electronic information services within university libraries in Jordan.
