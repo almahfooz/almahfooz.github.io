@@ -1,6 +1,6 @@
 ---
 title: "Understanding factors influencing the adoption of open science practices among Malaysia's NIH researchers"
-citation: 'Mahfooz Ahmed, Roslina Othman, Mohamad Fauzan Noordin, Muhd Zulfadli Hafiz bin Ismail, Zulkarnain bin Abd Karim, Sharifah Nazeera Binti Syed Anera. (2024). &quot; Understanding factors influencing the adoption of open science practices among Malaysia NIH researchers .&quot; <i>Information Development</i>. 0(0).'
+citation: 'Mahfooz Ahmed, Roslina Othman, Mohamad Fauzan Noordin, Muhd Zulfadli Hafiz bin Ismail, Zulkarnain bin Abd Karim, Sharifah Nazeera Binti Syed Anera. (2024). &quot; Understanding factors influencing the adoption of open science practices among Malaysia NIH researchers .&quot; <i>Information Development</i>. 0(0). https://doi.org/10.1177/02666669241248145'
 ---
 
 Background:
