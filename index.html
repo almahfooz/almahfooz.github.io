@@ -20,27 +20,24 @@
     }
 
     .wrapper {
-      max-width: 800px; /* Reduced width to increase side margins */
+      max-width: 800px;
       margin: 0 auto;
       display: flex;
       flex-direction: column;
       min-height: 100vh;
     }
 
+    /* Fix for equal width of image and text */
     header {
       background-image: url('/assets/me.jpg');
-      background-size: contain; /* Ensure the whole image is displayed */
+      background-size: cover; /* Ensure the image covers the entire container */
       background-repeat: no-repeat;
       background-position: center center;
-      height: 200px; /* Reduced height */
+      height: 250px; /* Adjusted height */
       position: relative;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
     }
 
-    /* Added background overlay with white/ecru transparency */
+    /* Background overlay with white/ecru transparency */
     header::before {
       content: "";
       position: absolute;
@@ -51,29 +48,35 @@
       background-color: rgba(255, 253, 240, 0.2);
     }
 
+    /* Adjusting icons and text position to bottom left */
+    .header-content {
+      position: absolute;
+      bottom: 10px;
+      left: 20px;
+      z-index: 2;
+      text-align: left; /* Aligns text to the left */
+    }
+
     header h1 {
       margin: 0;
       color: #fff;
       font-weight: 600;
       font-size: 2rem;
       text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
-      z-index: 2;
     }
 
-    header .icons {
+    .icons {
       display: flex;
-      justify-content: center;
-      margin-bottom: 10px;
-      z-index: 2;
+      margin-top: 10px;
     }
 
-    header .icons a {
-      margin: 0 10px;
+    .icons a {
+      margin-right: 10px;
       font-size: 28px;
       color: #fff;
     }
 
-    header .icons a:hover {
+    .icons a:hover {
       color: #ddd;
     }
 
@@ -103,7 +106,7 @@
     /* Responsive Design */
     @media (min-width: 768px) {
       header {
-        height: 250px; /* Adjusted height for larger screens */
+        height: 300px; /* Adjusted height for larger screens */
       }
     }
   </style>
@@ -111,14 +114,16 @@
 <body>
   <div class="wrapper">
     <header>
-      <div class="icons">
-        <a href="mailto:mbplomecka@gmail.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i></a>
-        <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fab fa-twitter"></i></a>
-        <a href="https://github.com/MartynaPlomecka" target="_blank"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <div class="header-content">
+        <h1>Martyna Płomecka</h1>
+        <div class="icons">
+          <a href="mailto:mbplomecka@gmail.com"><i class="fas fa-envelope"></i></a>
+          <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+          <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fab fa-twitter"></i></a>
+          <a href="https://github.com/MartynaPlomecka" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        </div>
       </div>
-      <h1>Martyna Płomecka</h1>
     </header>
 
     <div class="content">
@@ -136,4 +141,3 @@
   </div>
 </body>
 </html>
-
