@@ -2,76 +2,89 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Martyna Plomecka | Neuroscientist</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="generator" content="Jekyll v3.9.3" />
-  <meta property="og:title" content="Martyna Plomecka" />
-  <meta property="og:locale" content="en_US" />
-  <meta name="description" content="researcher" />
-  <meta property="og:description" content="researcher" />
-  <link rel="canonical" href="https://martynaplomecka.github.io/" />
-  <meta property="og:url" content="https://martynaplomecka.github.io/" />
-  <meta property="og:site_name" content="Martyna Plomecka" />
-  <meta property="og:type" content="website" />
-  <meta name="twitter:card" content="summary" />
-  <meta property="twitter:title" content="Martyna Plomecka" />
+  <!-- Font and Icon Libraries -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap" rel="stylesheet">
-
+  <!-- Stylesheet -->
   <style>
     body, html {
       margin: 0;
       padding: 0;
       font-family: 'Montserrat', sans-serif;
-      background-color: #fafafa;
+      background-color: #f5f5f5;
       color: #333;
     }
 
     .wrapper {
+      max-width: 1000px;
+      margin: 0 auto;
       display: flex;
       flex-direction: column;
       min-height: 100vh;
-      max-width: 800px; /* Increase max-width */
-      margin: 0 auto;
-      padding: 20px;
-      box-sizing: border-box;
     }
 
-    .sidebar {
-      padding: 20px;
+    header {
       background-color: #fff;
-      text-align: left;
+      padding: 20px;
+      text-align: center;
     }
 
-    .title a {
+    header h1 {
+      margin: 0;
+      font-weight: 600;
+    }
+
+    nav {
+      background-color: #1A5276;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: #fff;
+      margin: 0 15px;
       text-decoration: none;
-      color: inherit;
       font-weight: 400;
     }
 
-    .logo {
-      width: 100%;
-      max-width: 400px; /* Increase max-width */
-      height: auto;
-      margin: 0 auto;
+    nav a:hover {
+      text-decoration: underline;
     }
 
     .content {
       flex: 1;
-      padding: 0 20px 20px;
+      padding: 20px;
+      background-color: #fff;
     }
 
-    .content h2 {
-      font-weight: 400;
+    .section {
+      margin-bottom: 40px;
+    }
+
+    .section h2 {
+      color: #1A5276;
+      border-bottom: 2px solid #1A5276;
+      padding-bottom: 5px;
+    }
+
+    .about img {
+      width: 200px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+    }
+
+    .icons {
+      margin-top: 10px;
     }
 
     .icons a {
-      margin: 10px;
+      margin: 0 10px;
       font-size: 24px;
-      color: #666;
+      color: #1A5276;
     }
 
     .icons a:hover {
@@ -79,65 +92,120 @@
     }
 
     footer {
-      padding: 20px;
+      background-color: #1A5276;
+      color: #fff;
       text-align: center;
-      background-color: #fff;
-      box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
+      padding: 10px;
     }
 
+    /* Responsive Design */
     @media (min-width: 768px) {
-      .sidebar {
-        text-align: left;
-      }
-
-      .logo {
-        max-width: 800px; /* Increase max-width */
-      }
-
-      .sidebar, .content {
-        padding: 40px;
-      }
-
-      .icons {
+      .about {
         display: flex;
-        flex-direction: row;
-        justify-content: left;
+        align-items: center;
       }
 
-      .content {
-        text-align: left;
-        padding: 0;
+      .about img {
+        margin-right: 20px;
       }
     }
   </style>
 </head>
 <body>
   <div class="wrapper">
-    <div class="sidebar">
-      <header>
-        <h1 class="title"><a href="https://martynaplomecka.github.io/">Martyna Plomecka</a></h1>
-        <img src="/assets/me.jpg" class="logo" alt="Logo" />
-      </header>
-        <div class="icons">
-          <a href="mailto:mbplomecka@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-          <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
-          <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-          <a href="https://www.github.com/martynaplomecka" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-          <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-        </div>
-        <section class="content">
-          <p>I am xxxx with <a href="xxx" target="_blank">xx</a> xxx</p>
-          <p>See <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank">Google Scholar</a> for an up-to-date publications list.</p>
-          <h2 id="recent-news">Recent news</h2>
-          <ul>
-            <li><strong>July 2022</strong>: Started at xxx</li>
-            <li><strong>July 2022</strong>: Got an <a href="https://icml.cc/Conferences/2022/Reviewers" target="_blank">ICML Outstanding Reviewer Award</a>!</li>
-          </ul>
-          <h2 id="misc-updated-periodically">Misc (updated not so periodically)</h2>
-        </section>
+    <header>
+      <h1>Martyna Płomecka</h1>
+      <div class="icons">
+        <a href="mailto:mbplomecka@gmail.com"><i class="fas fa-envelope"></i></a>
+        <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+        <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="https://github.com/MartynaPlomecka" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      </div>
+    </header>
+
+    <nav>
+      <a href="#about">About</a>
+      <a href="#education">Education</a>
+      <a href="#experience">Research Experience</a>
+      <a href="#publications">Publications</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="content">
+      <section id="about" class="section about">
+        <img src="/assets/me.jpg" alt="Martyna Płomecka">
+        <p>
+          I am a Neuroscientist specializing in Computational Cognitive Neuroscience with a focus on machine learning applications in neurophysiological and behavioral data analysis.
+        </p>
+      </section>
+
+      <section id="education" class="section">
+        <h2>Education</h2>
+        <ul>
+          <li>
+            <strong>PhD in Computational Cognitive Neuroscience</strong><br>
+            Neuroscience Center Zurich (ZNZ), Zurich, Switzerland<br>
+            <em>March 2019 - September 2024</em>
+          </li>
+          <li>
+            <strong>MSc in Applied Mathematics</strong><br>
+            University of Warsaw, Poland<br>
+            <em>September 2016 - June 2018</em>
+          </li>
+          <li>
+            <strong>BSc in Applied Mathematics</strong><br>
+            University of Warsaw, Poland<br>
+            <em>September 2013 - June 2016</em>
+          </li>
+        </ul>
+      </section>
+
+      <section id="experience" class="section">
+        <h2>Research Experience</h2>
+        <ul>
+          <li>
+            <strong>PhD Student Researcher (Part-Time)</strong><br>
+            Google Research, Zurich, Switzerland<br>
+            <em>Dec 2023 – Jun 2024</em>
+          </li>
+          <li>
+            <strong>Research Intern</strong><br>
+            Google Research, Mountain View, CA<br>
+            <em>Aug 2023 – Nov 2023</em>
+          </li>
+          <li>
+            <strong>Research Associate</strong><br>
+            Simons Foundation, Flatiron Institute, New York, NY<br>
+            <em>May 2023 – Aug 2023</em>
+          </li>
+        </ul>
+      </section>
+
+      <section id="publications" class="section">
+        <h2>Selected Publications</h2>
+        <ul>
+          <li>
+            <strong>An Interpretable Attention-based Method for Gaze Estimation Using Electroencephalography</strong><br>
+            Medical Image Computing and Computer Assisted Intervention – MICCAI 2023
+          </li>
+          <li>
+            <strong>Leveraging Eye Tracking in Digital Classrooms: A Step Towards Multimodal Model for Learning Assistance</strong><br>
+            2023 Symposium on Eye Tracking Research and Applications
+          </li>
+          <!-- Add more publications as needed -->
+        </ul>
+      </section>
+
+      <section id="contact" class="section">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:mbplomecka@gmail.com">mbplomecka@gmail.com</a></p>
+        <p>Follow me on <a href="https://twitter.com/MartynaPlomecka" target="_blank">Twitter</a> or connect on <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank">LinkedIn</a>.</p>
+      </section>
     </div>
+
     <footer>
-      <p><small>Hosted on GitHub Pages </small></p>
+      <p>© 2023 Martyna Płomecka | Hosted on GitHub Pages</p>
     </footer>
   </div>
 </body>
