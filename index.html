@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <title>Martyna Plomecka | Neuroscientist</title>
+  <title>Martyna Płomecka | Neuroscientist</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Font and Icon Libraries -->
@@ -28,14 +28,21 @@
     }
 
     header {
-      background-color: #fff;
-      padding: 20px;
-      text-align: center;
+      background-image: url('/assets/me.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 300px;
+      position: relative;
     }
 
     header h1 {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
       margin: 0;
+      color: #fff;
       font-weight: 600;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     }
 
     nav {
@@ -71,10 +78,13 @@
       padding-bottom: 5px;
     }
 
-    .about img {
-      width: 200px;
-      border-radius: 50%;
-      margin-bottom: 20px;
+    .about {
+      text-align: center;
+    }
+
+    .about p {
+      max-width: 800px;
+      margin: 20px auto;
     }
 
     .icons {
@@ -100,13 +110,8 @@
 
     /* Responsive Design */
     @media (min-width: 768px) {
-      .about {
-        display: flex;
-        align-items: center;
-      }
-
-      .about img {
-        margin-right: 20px;
+      header {
+        height: 400px;
       }
     }
   </style>
@@ -115,50 +120,26 @@
   <div class="wrapper">
     <header>
       <h1>Martyna Płomecka</h1>
-      <div class="icons">
-        <a href="mailto:mbplomecka@gmail.com"><i class="fas fa-envelope"></i></a>
-        <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i></a>
-        <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fab fa-twitter"></i></a>
-        <a href="https://github.com/MartynaPlomecka" target="_blank"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fab fa-linkedin"></i></a>
-      </div>
     </header>
 
     <nav>
       <a href="#about">About</a>
-      <a href="#education">Education</a>
       <a href="#experience">Research Experience</a>
-      <a href="#publications">Publications</a>
       <a href="#contact">Contact</a>
     </nav>
 
     <div class="content">
       <section id="about" class="section about">
-        <img src="/assets/me.jpg" alt="Martyna Płomecka">
         <p>
-          I am a Neuroscientist specializing in Computational Cognitive Neuroscience with a focus on machine learning applications in neurophysiological and behavioral data analysis.
+          I am a neuroscientist specializing in computational cognitive neuroscience, focusing on machine learning applications in neurophysiological and behavioral data analysis.
         </p>
-      </section>
-
-      <section id="education" class="section">
-        <h2>Education</h2>
-        <ul>
-          <li>
-            <strong>PhD in Computational Cognitive Neuroscience</strong><br>
-            Neuroscience Center Zurich (ZNZ), Zurich, Switzerland<br>
-            <em>March 2019 - September 2024</em>
-          </li>
-          <li>
-            <strong>MSc in Applied Mathematics</strong><br>
-            University of Warsaw, Poland<br>
-            <em>September 2016 - June 2018</em>
-          </li>
-          <li>
-            <strong>BSc in Applied Mathematics</strong><br>
-            University of Warsaw, Poland<br>
-            <em>September 2013 - June 2016</em>
-          </li>
-        </ul>
+        <div class="icons">
+          <a href="mailto:mbplomecka@gmail.com"><i class="fas fa-envelope"></i></a>
+          <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+          <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fab fa-twitter"></i></a>
+          <a href="https://github.com/MartynaPlomecka" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fab fa-linkedin"></i></a>
+        </div>
       </section>
 
       <section id="experience" class="section">
@@ -179,21 +160,7 @@
             Simons Foundation, Flatiron Institute, New York, NY<br>
             <em>May 2023 – Aug 2023</em>
           </li>
-        </ul>
-      </section>
-
-      <section id="publications" class="section">
-        <h2>Selected Publications</h2>
-        <ul>
-          <li>
-            <strong>An Interpretable Attention-based Method for Gaze Estimation Using Electroencephalography</strong><br>
-            Medical Image Computing and Computer Assisted Intervention – MICCAI 2023
-          </li>
-          <li>
-            <strong>Leveraging Eye Tracking in Digital Classrooms: A Step Towards Multimodal Model for Learning Assistance</strong><br>
-            2023 Symposium on Eye Tracking Research and Applications
-          </li>
-          <!-- Add more publications as needed -->
+          <!-- Add more experience as needed -->
         </ul>
       </section>
 
@@ -201,6 +168,7 @@
         <h2>Contact</h2>
         <p>Email: <a href="mailto:mbplomecka@gmail.com">mbplomecka@gmail.com</a></p>
         <p>Follow me on <a href="https://twitter.com/MartynaPlomecka" target="_blank">Twitter</a> or connect on <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank">LinkedIn</a>.</p>
+        <p>See <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank">Google Scholar</a> for an up-to-date list of publications.</p>
       </section>
     </div>
 
@@ -210,4 +178,3 @@
   </div>
 </body>
 </html>
-
