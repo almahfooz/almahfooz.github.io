@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "DR. AL-MAHFOOZ AHMED (Ph.D, MM, MCR, IE, GCM, MCP)"
+title                    : "DR. AL-MAHFOOZ AHMED"
 title_separator          : "-"
 name                     : &name "Mahfooz Ahmed"
 description              : &description "personal description"
@@ -22,12 +22,12 @@ repository               : "almahfooz/almahfooz.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Mahfooz Ahmed"
-  pronouns         : # example: "she/her"  
+  name             : "Mahfooz Ahmed (Ph.D, MM, MCR, IE, GCM, MCP)"
+  pronouns         : "he/him"  
   bio              : "Research Assistant"
   location         : "Malaysia"
   employer         : "International Islamic University"
-  uri              : # URL
+  uri              : "https://almahfooz.github.io/"
   email            : "almahfooz4real@gmail.com" 
 
   # Academic websites
