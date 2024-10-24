@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy in Library and Information Science (Open Science), International Islamic University, Malaysia (June 2021 – May 2024)
+* Doctor of Philosophy in Open Science and Reproducible Research, International Islamic University, Malaysia (June 2021 – May 2024)
 * Master of Library and Information Science, International Islamic University, Malaysia (February 2019 – April 2021)
 * Bachelor Degree in Library and Information Science, Ahmadu Bello University, Zaria, Nigeria (November 2011 - February 2016)
 * Diploma in Computer Science and Technology, Baracks Computers Jos, Nigeria (February 2008 – October 2009)
