@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy in Open Science and Reproducible Research, International Islamic University, Malaysia (June 2021 – May 2024)
-* Master of Library and Information Science, International Islamic University, Malaysia (February 2019 – April 2021)
-* Bachelor Degree in Library and Information Science, Ahmadu Bello University, Zaria, Nigeria (November 2011 - February 2016)
-* Diploma in Computer Science and Technology, Baracks Computers Jos, Nigeria (February 2008 – October 2009)
+* Advanced Course in Maqasid Methodology (MM), Maqasid Institute (January- March 2023)
+* Mediation and Conflict Resolution (MCR), Hokama Peace Academy, Muslim Council of Elders (MCE), UAE (February 2021)
+* Islamic Economics Winter Course (IE), IPB University Bogor, Indonesia (September 2021)
+* Graduate Certificate in Management (GCM), Nigerian Institute of Management (Chartered) (April 2016 – June 2017)
+* SQL and Relational Databases, Cognitive Class and IBM Developer Skills Network (March 2021)
+* Microsoft Certified Professional (MCP), Microsoft (October 2009)
 
-Short Courses and Training Certification
+Short Courses and Training Certification  
 ======
 * Postgraduate Certificate - Advanced Course in Maqasid Methodology, Maqasid Institute (January- March 2023)
 * Mediation and Conflict Resolution Training, Hokama Peace Academy, Muslim Council of Elders, UAE (February 2021)
@@ -50,14 +52,20 @@ Work experience
   
 Digital Skills Proficiency (Advanced Level)
 ======
-* Data Analysis & Interpretation Skills
-* Programming and Coding Skills
-* Digital Literacy Skills
-* Cloud Computing Skills
 * Microsoft Office
-* Social Media Management
-* Digital Communication Skills
-* Digital Content Creation Skills
+* Data Analysis and Interpretation 
+* Programming and Coding 
+* Cloud Computing 
+* Self-Motivated and Motivator 
+* Problem-Solving 
+* Communication and Collaboration
+* Presentation and Organization
+
+Grants and Awards
+======
+* NAMA Summit Research Grant (November 2023) (4,500 RM)
+* IIUM Sejahtera Award (April 2023) (11,110 RM)
+* International Shari’ah Research Academy for Islamic Finance (ISRA) Award (January 2023) (3,927.71 RM) 
  
 Publications
 ======
