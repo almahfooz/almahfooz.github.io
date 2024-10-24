@@ -50,7 +50,7 @@ Work experience
 * Class Teacher, Al-Baitul Mukarm Model School, Nigeria (2010)
   * Teaching all areas of the primary and secondary school curriculum
   
-Digital Skills Proficiency (Advanced Level)
+Skills Proficiency
 ======
 * Microsoft Office
 * Data Analysis and Interpretation 
