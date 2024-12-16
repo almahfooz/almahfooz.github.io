@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "My Curriculum Vitae"
-permalink: 'http://almahfooz.github.io/files/My Curriculum Vitae.pdf'
+permalink: 'http://almahfooz.github.io/files/MyCurriculumVitae.pdf'
 author_profile: true
 redirect_from: 
   - /resume
