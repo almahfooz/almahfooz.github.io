@@ -11,7 +11,7 @@ redirect_from:
 
 Download PDF Version
 ======
-* <a href="files/MyCurriculumVitae.pdf" target="_blank"> My Curriculum Vitae </a>
+* <a href="files/paper1.pdf" target="_blank"> My Curriculum Vitae </a>
 
 Education
 ======
