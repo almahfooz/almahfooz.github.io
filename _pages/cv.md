@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "My Curriculum Vitae"
-permalink: 'http://almahfooz.github.io/files/MyCurriculumVitae.pdf'
+permalink: /cv/
 author_profile: true
 redirect_from: 
   - /resume
@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="http://almahfooz.github.io/files/MyCurriculumVitae.pdf" target="_blank"> PDF </a>
 Education
 ======
 * Doctor of Philosophy in Open Science and Reproducible Research, International Islamic University, Malaysia (June 2021 – May 2024)
