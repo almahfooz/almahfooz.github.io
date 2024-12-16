@@ -16,6 +16,7 @@ url                      : https://almahfooz.github.io # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "almahfooz/almahfooz.github.io"
 
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -29,6 +30,7 @@ author:
   employer         : "International Islamic University"
   uri              : # "https://almahfooz.github.io/"
   email            : "almahfooz4real@gmail.com" 
+  mycv             : "<a href= "https://doi.org/10.1057/s41264-024-00294-4" target="_blank"> My Curriculum Vitae </a>"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
