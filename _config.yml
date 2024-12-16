@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-2043-2025"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # "https://www.researchgate.net/profile/Mahfooz-Ahmed"
+  researchgate     : "https://www.researchgate.net/profile/Mahfooz-Ahmed"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
