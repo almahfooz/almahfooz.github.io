@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Curriculum Vitae <a href="files/My Curriculum Vitae.pdf" target="_blank"> PDF </a>"
+title: "My Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
