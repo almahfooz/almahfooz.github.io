@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile1.png"
   name             : "Mahfooz Ahmed (Ph.D, MM, MCR, IE, GCM, MCP)"
-  pronouns         : "he/him"  
+  pronouns         : "<a href="https://drive.google.com/file/d/1USk-arldvEYBHOOrOcQOSaILuwEH-ykj/view?usp=sharing" target="_blank"> View My CV </a>"  
   bio              : "Research Assistant"
   location         : "Malaysia"
   employer         : "International Islamic University"
-  uri              : "https://almahfooz.github.io/"
+  uri              : # "https://almahfooz.github.io/"
   email            : "almahfooz4real@gmail.com" 
  
 
@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-2043-2025"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Mahfooz-Ahmed"
+  researchgate     : # "https://www.researchgate.net/profile/Mahfooz-Ahmed"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
