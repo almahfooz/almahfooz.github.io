@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile1.png"
   name             : "Mahfooz Ahmed (Ph.D, MM, MCR, IE, GCM, MCP)"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Research Assistant"
   location         : "Malaysia"
   employer         : "International Islamic University"
