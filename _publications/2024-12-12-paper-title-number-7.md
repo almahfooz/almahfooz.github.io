@@ -1,6 +1,6 @@
 ---
 title: "Factors influencing the intention to use the Nigerian central bank digital currency (E-Naira) among Nigerian retailers"
-citation: 'Mahfooz Ahmed, Abulfathi Ibrahim Saleh Al-Hussaini & Adamu Abubakar Ibrahim. (2025). &quot; 
+citation: 'Mahfooz Ahmed, Abulfathi Ibrahim Saleh Al-Hussaini, Adamu Abubakar Ibrahim. (2025). &quot; 
 Factors influencing the intention to use the Nigerian central bank digital currency (E-Naira) among Nigerian retailers.&quot; 
 <i>Journal of Financial Services Marketing </i>. 30(1). <a href="https://doi.org/10.1057/s41264-024-00294-4" target="_blank"> DOI: 10.1057/s41264-024-00294-4 </a>'
 ---
