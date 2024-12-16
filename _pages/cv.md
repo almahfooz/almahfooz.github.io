@@ -11,6 +11,7 @@ redirect_from:
 {% endif %}
 
 {% include base_path %}
+
 Education
 ======
 * Doctor of Philosophy in Open Science and Reproducible Research, International Islamic University, Malaysia (June 2021 – May 2024)
