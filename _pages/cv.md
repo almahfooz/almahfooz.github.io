@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "My Curriculum Vitae"
-permalink: /cv/
+permalink: 'http://academicpages.github.io/files/paper3.pdf'
 author_profile: true
-redirect_from: 'http://academicpages.github.io/files/paper3.pdf'
+redirect_from: 
   - /resume
 ---
 
