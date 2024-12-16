@@ -6,13 +6,11 @@ author_profile: true
 redirect_from: 
   - /resume
 ---
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 {% include base_path %}
-
-Download PDF Version
-======
-* Get the PDF version of <a href="files/paper1.pdf" target="_blank"> My Curriculum Vitae </a>
-
 Education
 ======
 * Doctor of Philosophy in Open Science and Reproducible Research, International Islamic University, Malaysia (June 2021 – May 2024)
