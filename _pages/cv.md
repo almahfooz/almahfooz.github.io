@@ -3,7 +3,7 @@ layout: archive
 title: "My Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from: 'http://academicpages.github.io/files/paper3.pdf'
   - /resume
 ---
 
