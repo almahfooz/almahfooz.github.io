@@ -11,4 +11,4 @@ I'm Mahfooz Ahmed, a dedicated researcher with a PhD in Open Science and Reprodu
 
 I hold several relevant certifications, including Islamic Maqasid Methodology, Mediation and Conflict Resolution, Islamic Economics, Graduate Certificate in Management, Web and Database programming, and Microsoft Certified Professional.
 
-My skills and experience equip me to contribute effectively to research projects and initiatives that require a strong foundation in data management, research methodology, and ethical considerations.
+My skills and experience equip me to contribute effectively to research projects and initiatives that require a strong foundation in data management, research methodology, and ethical considerations. View My CV
