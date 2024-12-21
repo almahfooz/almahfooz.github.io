@@ -3,9 +3,9 @@ title: "Introduction To Data Analytics"
 collection: teaching
 type: "3MTT Training Program"
 permalink: /teaching/2015-spring-teaching-1
-venue: "IIUM, DLIS"
+venue: "Online"
 date: 2024-05-01
-location: "Online - (Fathi-Tech Academy)"
+location: "Fathi-Tech Academy"
 ---
 
 This introductory course provides a foundational understanding of data analytics, equipping 
