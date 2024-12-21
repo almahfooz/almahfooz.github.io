@@ -3,9 +3,9 @@ title: "Cybersecurity Fundamentals"
 collection: teaching
 type: "3MTT Training Program"
 permalink: /teaching/2015-spring-teaching-1
-venue: "IIUM, DLIS"
+venue: "Online"
 date: 2024-09-01
-location: "Online - (Fathi-Tech Academy)"
+location: " Fathi-Tech Academy"
 ---
 
 This Cybersecurity Fundamentals course provides a comprehensive introduction to the evolving 
