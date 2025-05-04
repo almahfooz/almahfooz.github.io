@@ -2,144 +2,142 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Martyna Płomecka | Neuroscientist</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Martyna Plomecka | Neuroscientist</title>
 
-  <meta name="generator" content="Jekyll v3.9.3" />
-  <meta property="og:title" content="Martyna Plomecka" />
-  <meta property="og:locale" content="en_US" />
-  <meta name="description" content="researcher" />
-  <meta property="og:description" content="researcher" />
-  <link rel="canonical" href="https://martynaplomecka.github.io/" />
-  <meta property="og:url" content="https://martynaplomecka.github.io/" />
-  <meta property="og:site_name" content="Martyna Plomecka" />
-  <meta property="og:type" content="website" />
-  <meta name="twitter:card" content="summary" />
-  <meta property="twitter:title" content="Martyna Plomecka" />
-
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap" rel="stylesheet">
+  <!-- Font and Icon Libraries -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 
   <style>
     body, html {
       margin: 0;
       padding: 0;
       font-family: 'Montserrat', sans-serif;
-      background-color: #fafafa;
+      background-color: #f5f5f5;
       color: #333;
     }
 
     .wrapper {
+      max-width: 800px;
+      margin: 40px auto;
+      background-color: #fff;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
       display: flex;
       flex-direction: column;
-      min-height: 100vh;
-      max-width: 800px; /* Increase max-width */
-      margin: 0 auto;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
       padding: 20px;
-      box-sizing: border-box;
+      border-bottom: 1px solid #eee;
     }
-
-    .sidebar {
-      padding: 20px;
-      background-color: #fff;
-      text-align: left;
+    header img {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-right: 20px;
     }
-
-    .title a {
-      text-decoration: none;
-      color: inherit;
-      font-weight: 400;
-    }
-
-    .logo {
-      width: 100%;
-      max-width: 400px; /* Increase max-width */
-      height: auto;
-      margin: 0 auto;
-    }
-
-    .content {
+    .header-content {
       flex: 1;
-      padding: 0 20px 20px;
     }
-
-    .content h2 {
-      font-weight: 400;
+    .header-content h1 {
+      margin: 0 0 10px;
+      font-size: 2rem;
+      font-weight: 600;
     }
-
+    .icons {
+      display: flex;
+      margin-bottom: 15px;
+    }
     .icons a {
-      margin: 10px;
+      margin-right: 12px;
       font-size: 24px;
-      color: #666;
+      color: #333;
+      transition: color .2s;
+    }
+    .icons a:hover {
+      color: #0073e6;
     }
 
-    .icons a:hover {
-      color: #333;
+    .update {
+      padding: 20px;
+      background-color: #fafafa;
+      border-bottom: 1px solid #eee;
+    }
+    .update p {
+      margin: 0;
+      font-size: 1rem;
+      line-height: 1.4;
+    }
+    .update p strong {
+      font-weight: 600;
+    }
+    .update a {
+      color: #0073e6;
+      text-decoration: none;
+    }
+    .update a:hover {
+      text-decoration: underline;
+    }
+
+    .about {
+      padding: 20px;
+    }
+    .about p {
+      margin: 0 0 16px;
+      line-height: 1.5;
     }
 
     footer {
-      padding: 20px;
+      padding: 12px 20px;
+      background-color: #fafafa;
+      border-top: 1px solid #eee;
       text-align: center;
-      background-color: #fff;
-      box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
-    }
-
-    @media (min-width: 768px) {
-      .sidebar {
-        text-align: left;
-      }
-
-      .logo {
-        max-width: 800px; /* Increase max-width */
-      }
-
-      .sidebar, .content {
-        padding: 40px;
-      }
-
-      .icons {
-        display: flex;
-        flex-direction: row;
-        justify-content: left;
-      }
-
-      .content {
-        text-align: left;
-        padding: 0;
-      }
+      font-size: 0.9rem;
+      color: #777;
     }
   </style>
 </head>
 <body>
+
   <div class="wrapper">
-    <div class="sidebar">
-      <header>
-        <h1 class="title"><a href="https://martynaplomecka.github.io/">Martyna Plomecka</a></h1>
-        <img src="/assets/me.jpg" class="logo" alt="Logo" />
-      </header>
+    <!-- header with photo, name, icons -->
+    <header>
+      <img src="/assets/me.jpg" alt="Martyna Płomecka">
+      <div class="header-content">
+        <h1>Martyna Płomecka</h1>
         <div class="icons">
-          <a href="mailto:mbplomecka@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-          <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a>
-          <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-          <a href="https://www.github.com/martynaplomecka" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-          <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+          <a href="mailto:mbplomecka@gmail.com"><i class="fas fa-envelope"></i></a>
+          <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+          <a href="https://twitter.com/MartynaPlomecka" target="_blank"><i class="fab fa-twitter"></i></a>
+          <a href="https://github.com/MartynaPlomecka" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/martynaplomecka/" target="_blank"><i class="fab fa-linkedin"></i></a>
         </div>
-        <section class="content">
-          <p>I am xxxx with <a href="xxx" target="_blank">xx</a> xxx</p>
-          <p>See <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank">Google Scholar</a> for an up-to-date publications list.</p>
-          <h2 id="recent-news">Recent news</h2>
-          <ul>
-            <li><strong>July 2022</strong>: Started at xxx</li>
-            <li><strong>July 2022</strong>: Got an <a href="https://icml.cc/Conferences/2022/Reviewers" target="_blank">ICML Outstanding Reviewer Award</a>!</li>
-          </ul>
-          <h2 id="misc-updated-periodically">Misc (updated not so periodically)</h2>
-        </section>
+      </div>
+    </header>
+
+    <!-- news/update section -->
+    <div class="update">
+      <p><strong>March 2025:</strong> As of now, I’m a Research Scientist at Google, based in NYC.</p>
+      <p>See <a href="https://scholar.google.com/citations?hl=en&user=J5MIOdQAAAAJ" target="_blank">Google Scholar</a> for an up-to-date publications list.</p>
+      <p>Contact: martynka [at] google.com</p>
     </div>
+
+    <!-- about section -->
+    <section class="about">
+      <p>I am an applied mathematician turned computational neuroscientist, specializing in computational cognitive neuroscience with a focus on machine learning applications in neurophysiological and behavioral data analysis.</p>
+      <p>A significant portion of my research has centered around eye-tracking technologies, which have been integral to understanding cognitive functions and neural mechanisms.</p>
+      <p>Recently, I have pivoted towards Large Language Models (LLMs) for automated scientific discovery, particularly in the realms of data science and code generation.</p>
+      <p>I am currently based in Zurich, working at Google Research, where I am exploring the interface between machine learning and scientific research.</p>
+    </section>
+
     <footer>
-      <p><small>Hosted on GitHub Pages </small></p>
+      <p>© 2024 Martyna Płomecka | Hosted on GitHub Pages</p>
     </footer>
   </div>
+
 </body>
 </html>
-
