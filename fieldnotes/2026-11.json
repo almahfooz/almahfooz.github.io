@@ -1,0 +1,36 @@
+{
+  "month": "2026-11",
+  "slug": "before-you-submit-your-thesis",
+  "category": "Academic writing",
+  "title": "Before you submit your thesis",
+  "summary": "Three final checks for the argument, the page, and the references before your thesis leaves your desk.",
+  "sections": [
+    {
+      "title": "Read for the argument first",
+      "paragraphs": [
+        "Open the introduction and the conclusion side by side. For every research objective, locate the passage that answers it. A reader should be able to follow the same question from its first statement to the evidence and then to the conclusion. If the wording changes between chapters, decide which version best describes what the study actually did.",
+        "A small table can make this check easier. Use one row per objective and three columns for the objective, its principal finding, and the page where the finding is discussed. A blank cell identifies a specific revision. A crowded cell may mean the objective is carrying several different questions."
+      ]
+    },
+    {
+      "title": "Check the page your examiner will see",
+      "paragraphs": [
+        "Keep the current university guide alongside the final document. Choose one chapter opening, one table, one figure, and the first page of an appendix. Compare their headings, spacing, captions, and numbering with the guide. Look closely at the transition from preliminary pages to the main chapters.",
+        "Update the table of contents and other lists after making layout changes. Export a PDF and open that file independently. Tables that fit in Word can split across pages in the export. Follow a sample of contents entries and check that their page numbers lead to the right headings."
+      ]
+    },
+    {
+      "title": "Trace the references in both directions",
+      "paragraphs": [
+        "Select several citations, including a source with multiple authors and one with a similar author and year. Find each reference entry and compare its title, author order, year, and DOI with the publisher’s record. Then work back from the reference list to the text. Apply your university’s rules to any works you list as further reading.",
+        "A reference manager can refresh citations consistently, but it reproduces errors in the underlying records. Correct the record where possible, refresh the document, and check the final export. For the last read, give one colleague the PDF and one precise task, such as following the path from a research objective to the table that supports it."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Zotero · Word processor integration",
+      "url": "https://www.zotero.org/support/word_processor_integration"
+    }
+  ]
+}
